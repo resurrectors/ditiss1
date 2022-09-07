@@ -6,4 +6,4 @@ id
 echo ""
 echo "Shell being used by user is:"
 echo $SHELL
-echo ""
+echo "" 
